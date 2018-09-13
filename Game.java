@@ -13,7 +13,7 @@ import java.util.Scanner;
 /**
  * A Connect4 Game.
  *
- * @author and Surya Nehra
+ * @author Surya Nehra
  * @version 1.0 
  */
 public class Game
